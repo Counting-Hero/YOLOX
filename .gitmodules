@@ -1,0 +1,3 @@
+[submodule "YOLO2COCO"]
+	path = YOLO2COCO
+	url = https://github.com/RapidAI/YOLO2COCO.git
